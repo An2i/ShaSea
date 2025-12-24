@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Anzi\Music\SSea_LLVMPass\SSea\ObfuscationPlugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\Utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\BogusControlFlow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\CryptoUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\ObfuscationOptions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\StringEncryption.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\SplitBasicBlock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\Substitution.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\Flattening.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\IndirectBranch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\IndirectCall.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\IPObfuscationContext.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\VMFlatten.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Anzi\Music\SSea_LLVMPass\SSea\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{33E4B99F-47C7-3249-8FF8-7C1F654FD5B8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

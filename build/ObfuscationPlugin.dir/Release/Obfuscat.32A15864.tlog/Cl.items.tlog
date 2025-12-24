@@ -1,0 +1,13 @@
+C:\Users\Anzi\Music\SSea_LLVMPass\SSea\ObfuscationPlugin.cpp;C:\Users\Anzi\Music\SSea_LLVMPass\SSea\build\ObfuscationPlugin.dir\Release\ObfuscationPlugin.obj
+C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\Utils.cpp;C:\Users\Anzi\Music\SSea_LLVMPass\SSea\build\ObfuscationPlugin.dir\Release\Utils.obj
+C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\BogusControlFlow.cpp;C:\Users\Anzi\Music\SSea_LLVMPass\SSea\build\ObfuscationPlugin.dir\Release\BogusControlFlow.obj
+C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\CryptoUtils.cpp;C:\Users\Anzi\Music\SSea_LLVMPass\SSea\build\ObfuscationPlugin.dir\Release\CryptoUtils.obj
+C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\ObfuscationOptions.cpp;C:\Users\Anzi\Music\SSea_LLVMPass\SSea\build\ObfuscationPlugin.dir\Release\ObfuscationOptions.obj
+C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\StringEncryption.cpp;C:\Users\Anzi\Music\SSea_LLVMPass\SSea\build\ObfuscationPlugin.dir\Release\StringEncryption.obj
+C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\SplitBasicBlock.cpp;C:\Users\Anzi\Music\SSea_LLVMPass\SSea\build\ObfuscationPlugin.dir\Release\SplitBasicBlock.obj
+C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\Substitution.cpp;C:\Users\Anzi\Music\SSea_LLVMPass\SSea\build\ObfuscationPlugin.dir\Release\Substitution.obj
+C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\Flattening.cpp;C:\Users\Anzi\Music\SSea_LLVMPass\SSea\build\ObfuscationPlugin.dir\Release\Flattening.obj
+C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\IndirectBranch.cpp;C:\Users\Anzi\Music\SSea_LLVMPass\SSea\build\ObfuscationPlugin.dir\Release\IndirectBranch.obj
+C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\IndirectCall.cpp;C:\Users\Anzi\Music\SSea_LLVMPass\SSea\build\ObfuscationPlugin.dir\Release\IndirectCall.obj
+C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\IPObfuscationContext.cpp;C:\Users\Anzi\Music\SSea_LLVMPass\SSea\build\ObfuscationPlugin.dir\Release\IPObfuscationContext.obj
+C:\Users\Anzi\Music\SSea_LLVMPass\SSea\Obfuscation\VMFlatten.cpp;C:\Users\Anzi\Music\SSea_LLVMPass\SSea\build\ObfuscationPlugin.dir\Release\VMFlatten.obj
